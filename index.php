@@ -42,8 +42,8 @@
 <br>
 	<div id="footer">
 		<p>
-			Aluno: Daniel Nunes<br>
-			RA:  16193575 <br>
+			Aluno: Silvan Pereira de Sousa<br>
+			RA: 20044540-5<br>
 			CURSO: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET<br>
 			UNIVERSIDADE CESUMAR - UNICESUMAR
 		</p>
